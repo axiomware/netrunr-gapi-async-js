@@ -1,0 +1,31 @@
+{
+  "name": "netrunr-gapi-async",
+  "version": "1.0.0",
+  "description": "A Javascript API to access Axiomware's Netrunr Gateways with Async-awit and promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axiomware/netrunr-gapi-async-js.git"
+  },
+  "keywords": [
+    "Nextrunr",
+    "Bluetooth",
+    "Gateway",
+    "Axiomware"
+  ],
+  "author": "Axiomware Systems Inc <swdev@axiomware.com> (http://www.axiomware.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/axiomware/netrunr-gapi-async-js/issues"
+  },
+  "homepage": "https://github.com/axiomware/netrunr-gapi-async-js#readme",
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "dependencies": {
+    "netrunr-gapi": "^1.0.3"
+  }
+}
