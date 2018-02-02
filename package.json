@@ -1,6 +1,6 @@
 {
   "name": "netrunr-gapi-async",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Javascript API to access Axiomware's Netrunr Gateways with Async-await and promises",
   "main": "index.js",
   "scripts": {
